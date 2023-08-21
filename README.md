@@ -1,5 +1,5 @@
 # SP
-Anti DDos for fivem server (SP)
+Anti DDos for fivem server (SP) V 1.2
 
 how to install 
 #install
